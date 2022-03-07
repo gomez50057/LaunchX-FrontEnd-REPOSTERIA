@@ -40,4 +40,4 @@ En caso de que te quede corto el ejercicio siguele con esto!
 ## Nota
 Para ver la pantalla del pastelero(admin) dar clik en "REPOSTERIA" localizada en la barra
 
-- Soy la pagina https://github.com/gomez50057/LaunchX-FrontEnd-Reposteria
+- Soy la pagina https://gomez50057.github.io/LaunchX-FrontEnd-Reposteria/index.html

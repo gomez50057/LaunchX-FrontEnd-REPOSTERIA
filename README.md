@@ -35,3 +35,10 @@ En caso de que te quede corto el ejercicio siguele con esto!
 - Bonus de estilos (Intro a CSS)
 - Bonus de Rutas (Navegación en la página)
 - Bonus de despliegue (Montar la página en línea con dominio gratuito)
+
+
+## Nota
+Para ver la pantalla del pastelero(admin) dar clik en "REPOSTERIA" localizada en la barra
+
+
+[Soy la pagina](https://github.com/gomez50057/LaunchX-FrontEnd-Reposteria) 
